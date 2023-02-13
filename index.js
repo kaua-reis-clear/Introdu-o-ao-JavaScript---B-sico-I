@@ -1,4 +1,4 @@
-let cor = "verde";
+let cor = "azul";
 
 if (cor === "verde") {
     
@@ -11,5 +11,5 @@ if (cor === "verde") {
 } else {
 
     console.log("pare");
-    
+
 }
