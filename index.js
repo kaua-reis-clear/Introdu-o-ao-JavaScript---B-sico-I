@@ -1,15 +1,8 @@
-let cor = "azul";
+let n = 5;
 
-if (cor === "verde") {
+for (let i = 0; i <= 10; i++) {
+
+    console.log(`${i} X ${n} = ${i*n}`);
     
-    console.log("siga");
-
-} else if (cor === "amarelo") {
-
-    console.log("atenção");
-
-} else {
-
-    console.log("pare");
-
+    //console.log(i + " X " + n + " = " + (i * n));
 }
