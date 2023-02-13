@@ -1,3 +1,9 @@
-var olaMundo = "Hello World";
+let cor = "verde";
 
-console.log(olaMundo);
+if (cor === "verde") {
+    
+    console.log("siga");
+
+} else {
+    console.log("pare");
+}
